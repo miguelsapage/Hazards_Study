@@ -13,3 +13,7 @@ This program is designed for a 5-stage processor with data forwarding, but witho
 ## pb3.s
 
 This program is designed for a 5-stage processor with hazard detection and data forwarding. The code can be ran without any changes.
+
+## pb4.s
+
+This program is designed for a 5-stage processor with hazard detection and data forwarding. The solution uses reordering for a more efficient code.
